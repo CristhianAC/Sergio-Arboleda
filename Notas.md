@@ -1,14 +1,14 @@
-
 # Negocios digitales
 
 ## Tools
+
 Open Educational Resources
 
 ### Main
+
 ```
 https://libgen.re/search.php?req=inbound+marketing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
 ```
-
 
 Marco normativo
 https://www.unesco.org/en/open-educational-resources/oer-dynamic-coalition
@@ -26,7 +26,7 @@ https://lumenlearning.com/
 academicearth.org
 www.saylor.org
 www.curriki.org
-www.opencourselibrary.org 
+www.opencourselibrary.org
 https://www.opentextbooks.org.hk/
 libretexts.org
 www.oerafrica.org
@@ -85,34 +85,44 @@ Revisar todos estos sitios de OERs
 https://www.oerafrica.org/oer-initiatives-africa
 https://www.oerafrica.org/african-oer-sites-and-repositories
 
-
-
 ## Sugerencias
+
 - No tan tecnico, solo lo suficiente.
 - Mas dado a los conceptos.
-
+- Entre 3 y 5 temas por semana.
 ## Diseno UX/UI
+
+### Pendientes
+
+- Crear video de registro a figma student
+
+### Prerequisitos
+
+- Creacion de cuenta figma student
+
 ### UX
+
 #### Libro
+
 - https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed
 
 ### UI
+
 #### Libro
-- Parte teorica y muy bien escrito para un diseno minimalista permitiendo atemporalidad: https://benhunt.com/wp-content/uploads/2015/01/STP2-1d.pdf
+
+- Parte teorica y muy bien escrito storytelling: https://www.uxpin.com/studio/ebooks/visual-storytelling-web-ui-design/
+- Libro para casos de uso: https://downloads.ctfassets.net/ve81k805bx04/2bMTFo4agkUgmsSgeu8uik/462da69baf7fc97876b2cd87bc4b857f/PP3.pdf
+- Web Guia de figma: [Figma](https://www.figma.com/resource-library/design-basics/)
 
 ### Recursos Secundarios
-- Quieres saber como perfeccionar tus habilidades de comunicacion previa para mejorar el ux una vez esta el producto en desarrollo o ya ha sido desarrollado y quieres mejorarlo:  https://productschool.com/resources/ebooks/product-mindset 
+
+- Quieres saber como perfeccionar tus habilidades de comunicacion previa para mejorar el ux una vez esta el producto en desarrollo o ya ha sido desarrollado y quieres mejorarlo: https://productschool.com/resources/ebooks/product-mindset
 - Quieres saber un poco mas de que deberias tener preparado antes de empezar a disenar o incluso tener unas muy buenas practicas al ahora de hacerlo: https://www.uxpin.com/studio/ebooks/create-design-system-guide-checklist/
-
-
-### Pendientes
-- Crear video de registro a figma student
-### Prerequisitos
-- Creacion de cuenta figma student
 
 ## Cloud computing & Cibersecurity
 
 ### Pendientes
+
 - Crear video de creacion de cuenta a figma student
 
 ### Prerequisitos
