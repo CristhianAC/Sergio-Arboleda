@@ -90,6 +90,7 @@ https://www.oerafrica.org/african-oer-sites-and-repositories
 - No tan tecnico, solo lo suficiente.
 - Mas dado a los conceptos.
 - Entre 3 y 5 temas por semana.
+
 ## Diseno UX/UI
 
 ### Pendientes
@@ -128,3 +129,8 @@ https://www.oerafrica.org/african-oer-sites-and-repositories
 ### Prerequisitos
 
 - Crear cuenta de Azure Student
+
+### Tareas
+
+ - Proponer actividades para UX/UI
+

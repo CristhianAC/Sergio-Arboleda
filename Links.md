@@ -1,0 +1,1 @@
+- Actividad Figma: https://www.figma.com/design/q4DQqOYyI9cf11VLn3RCXQ/%E2%9C%85-Figma-Dom%C3%A9stika-v1.5-(Copy)?node-id=14-186&t=ti7iCcpOp3jrshya-1
