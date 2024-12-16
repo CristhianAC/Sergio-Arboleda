@@ -123,11 +123,17 @@ https://www.oerafrica.org/african-oer-sites-and-repositories
 ## APIS
 
 #### Libro
+
 - https://nordicapis.com/ebooks/the-api-economy/https://nordicapis.com/ebooks/the-api-economy/
+
+#### Recursos adicionales
+
+- [How-to-market](https://nordicapis.com/ebooks/how-to-market-an-api/)
 
 ## Cloud computing & Cibersecurity
 
 https://nordicapis.com/ebooks/api-driven-devops/
+
 ### Pendientes
 
 - Crear video de creacion de cuenta a figma student
@@ -138,4 +144,4 @@ https://nordicapis.com/ebooks/api-driven-devops/
 
 ### Tareas
 
- - Proponer actividades para UX/UI
+- Proponer actividades para UX/UI
