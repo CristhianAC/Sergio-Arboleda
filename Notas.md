@@ -120,8 +120,14 @@ https://www.oerafrica.org/african-oer-sites-and-repositories
 - Quieres saber como perfeccionar tus habilidades de comunicacion previa para mejorar el ux una vez esta el producto en desarrollo o ya ha sido desarrollado y quieres mejorarlo: https://productschool.com/resources/ebooks/product-mindset
 - Quieres saber un poco mas de que deberias tener preparado antes de empezar a disenar o incluso tener unas muy buenas practicas al ahora de hacerlo: https://www.uxpin.com/studio/ebooks/create-design-system-guide-checklist/
 
+## APIS
+
+#### Libro
+- https://nordicapis.com/ebooks/the-api-economy/https://nordicapis.com/ebooks/the-api-economy/
+
 ## Cloud computing & Cibersecurity
 
+https://nordicapis.com/ebooks/api-driven-devops/
 ### Pendientes
 
 - Crear video de creacion de cuenta a figma student
@@ -133,4 +139,3 @@ https://www.oerafrica.org/african-oer-sites-and-repositories
 ### Tareas
 
  - Proponer actividades para UX/UI
-
